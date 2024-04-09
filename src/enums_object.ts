@@ -10,7 +10,7 @@ enum Roles{
 //Objects
 
 const roles = {
-    User: 0,
+    User: 1,
     Amind: 1,
     SuperAdmin: 2
 };
